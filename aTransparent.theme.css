@@ -1,0 +1,294 @@
+/**
+ * @name Transparent Theme
+ * @description Lightcord Theme Transparent with Glasstron
+ * @author Iheb
+ * @version 2.0.0
+ * @authorId 225686914529886209
+ * @invite nsXFwKmZyg
+ * @YouTube https://youtube.com/@ihebtate
+ * @Twitter https://twitter.com/ihebtate
+ */
+
+.theme-dark {
+     --background-primary: transparent;
+     --background-primary-alt: transparent;
+     --background-secondary: transparent;
+     --background-secondary-chat: transparent;
+     --background-secondary-alt: transparent;
+     --background-tertiary: transparent;
+     --background-logo: transparent;
+     --deprecated-card-bg: transparent;
+     --deprecated-store-bg: transparent;
+     --background-attachments: transparent;
+     --background-search-bar: transparent;
+     --background-switcher: transparent;
+     --background-chatbox: transparent;
+     --background-lights-out: transparent;
+     --background-pinned: transparent;
+     --background-profile-expand: transparent;
+     --background-emoji: transparent;
+     --text-lights-out: transparent;
+     --background-titlebar: transparent;
+}
+
+
+.wordmarkWindows-2dq6rw > svg {
+display: none;
+}
+
+.wordmarkWindows-2dq6rw > svg {
+display: none;
+}
+
+#app-mount .userProfileModalOverlayBackground-8p3-eU::-webkit-scrollbar {
+ background: transparent;
+}
+
+
+body,
+#app-mount,
+#app-mount .app-1q1i1E,
+#app-mount .app-2rEoOp,
+#app-mount .container-16j22k.fixClipping-3qAKRb,
+#app-mount .notches-1sAcEM,
+#app-mount .da-notches gray-3_LNYR,
+#app-mount .wrapper-1prNyd,
+#app-mount .bg-h5JY_x,
+#app-mount .layer-3QrUeG,
+#app-mount .container-3w7J-x,
+#app-mount .privateChannels-1nO12o,
+#app-mount .panels-j1Uci_ > *,
+#app-mount .chat-3bRxxu,
+#app-mount .wrapper-3vR61M,
+#app-mount .userProfileModalOverlayBackground-8p3-eU,
+#app-mount .noChat-9aipKz,
+#app-mount .members-1998pB,
+#app-mount .members-1998pB > div,
+#app-mount .container-1D34oG,
+#app-mount .applicationStore-1pNvnv,
+#app-mount .pageWrapper-1PgVDX,
+#app-mount .scrollerBase-289Jih,
+#app-mount .codeRedemptionRedirect-1wVR4b,
+#app-mount .da-codeRedemptionRedirect,
+#app-mount .card-3Qj_Yx,
+#app-mount .da-card,
+#app-mount .homeIcon-FuNwkv,
+#app-mount .da-homeIcon,
+#app-mount .standardSidebarView-3F1I7i,
+#app-mount .scroller-2ZPeAD,
+#app-mount .da-scroller,
+#app-mount .thin-1ybCId,
+#app-mount .chatContent-3KubbW,
+#app-mount .scroller-kQBbkU::-webkit-scrollbar,
+#app-mount .childWrapper-anI2G9,
+#app-mount .da-childWrapper,
+#app-mount .scrollerBase-289Jih,
+#app-mount .header-2SF4Nh,
+#app-mount .container-lRFx4q,
+#app-mount .scrollableContainer-2NUZem,
+#app-mount .webkit-HjD9Er,
+#app-mount .da-webkit,
+#app-mount .da-container,
+#app-mount .textArea-12jD-V,
+#app-mount .da-textArea,
+#app-mount .textAreaSlate-1ZzRVj,
+#app-mount .da-textAreaSlate,
+#app-mount .slateContainer-3Qkn2x,
+#app-mount .da-slateContainer,
+#app-mount .placeholder-37qJjk,
+#app-mount .da-placeholder,
+#app-mount .fontSize16Padding-3Wk7z,
+#app-mount .markup-2BOw-j,
+#app-mount .da-markup,
+#app-mount .slateTextArea-1Mkdgw,
+#app-mount .scrollableContainer-2NUZem,
+#app-mount .webkit-HjD9Er,
+#app-mount .da-webkit,
+#app-mount .scrollableContainer-2NUZem,
+#app-mount .webkit-HjD9Er,
+#app-mount .da-webkit,
+#app-mount .scrollableContainer-2NUZem,
+#app-mount .webkit-HjD9Er,
+#app-mount .da-webkit,
+#app-mount .circleIconButton-1XqULR,
+#app-mount .circleButtonBase-33sh5_,
+#app-mount .da-circleIconButton,
+#app-mount .da-circleButtonBase,
+#app-mount .iconVisibility-sTNpHs,
+#app-mount .da-iconVisibility,
+#app-mount .wrapper-2jXpOf,
+#app-mount .da-wrapper,
+#app-mount .modeSelected-346R90,
+#app-mount .emptyCard-1RJw8n,
+#app-mount .da-emptyCard,
+#app-mount .da-slateTextArea,
+#app-mount .textArea-12jD-V,
+#app-mount .da-textArea,
+#app-mount .textAreaSlate-1ZzRVj,
+#app-mount .da-textAreaSlate,
+#app-mount .slateContainer-3Qkn2x,
+#app-mount .da-slateContainer,
+#app-mount .fontSize16Padding-3Wk7zP,
+#app-mount .background-1QDuV2,
+#app-mount .section-2gLsgF,
+#app-mount .da-section,
+#app-mount .applicationStreamingSection-1YWLV7,
+#app-mount .da-applicationStreamingSection,
+#app-mount .body-1ld4H7,
+#app-mount .da-body,
+#app-mount .inset-3sAvek,
+#app-mount .da-inset,
+#app-mount .da-background,
+#app-mount .fieldList-21DyL8,
+#app-mount .button-1YfofB,
+#app-mount .da-button,
+#app-mount .buttonColor-7qQbGO,
+#app-mount .da-buttonColor,
+#app-mount .button-38aScr,
+#app-mount .da-button,
+#app-mount .lookFilled-1Gx00P,
+#app-mount .colorBrand-3pXr91,
+#app-mount .sizeSmall-2cSMqn,
+#app-mount .infoScroller-1Qu30O,
+#app-mount .da-infoScroller,
+#app-mount .thin-1ybCId,
+#app-mount .scrollerBase-289Jih,
+#app-mount .fade-2kXiP2,
+#app-mount .userInfoSection-q_35fn,
+#app-mount .da-userInfoSection,
+#app-mount .userInfoSectionHeader-3TYk6R,
+#app-mount .da-userInfoSectionHeader,
+#app-mount .fontDisplay-1dagSA,
+#app-mount .da-fontDisplay,
+#app-mount .base-1x0h_U,
+#app-mount .da-base,
+#app-mount .size12-3cLvbJ,
+#app-mount .uppercase-3VWUQ9,
+#app-mount .da-uppercase,
+#app-mount .grow-q77ONN,
+#app-mount .da-grow,
+#app-mount .button-1YfofB,
+#app-mount .da-button,
+#app-mount .button-1YfofB,
+#app-mount .da-button,
+#app-mount .buttonColor-7qQbGO,
+#app-mount .da-buttonColor,
+#app-mount .button-38aScr,
+#app-mount .da-button,
+#app-mount .lookFilled-1Gx00P,
+#app-mount .colorBrand-3pXr91,
+#app-mount .sizeSmall-2cSMqn,
+#app-mount .grow-q77ONN,
+#app-mount .da-grow,
+#app-mount .button-1YfofB,
+#app-mount .da-button,
+#app-mount .flex-1xMQg5,
+#app-mount .flex-1O1GKY,
+#app-mount .da-flex,
+#app-mount .orizontal-1ae9ci,
+#app-mount .horizontal-2EEEnY,
+#app-mount .flex-1O1GKY,
+#app-mount .scroller-3BxosC,
+#app-mount .da-scroller,
+#app-mount .thin-1ybCId,
+#app-mount .scrollerBase-289Jih,
+#app-mount .directionRow-3v3tfG,
+#app-mount .justifyStart-2NDFzi,
+#app-mount .videoControls-24w7Xp 
+#app-mount .gradientTop-3UWg3T, 
+#app-mount .videoControls-24w7Xp,
+#app-mount .gradientBottom-3X4SdK,
+#app-mount .videoControls-24w7Xp,
+#app-mount .gradientTop-3UWg3T, 
+#app-mount .videoControls-24w7Xp,
+#app-mount .gradientBottom-3X4SdK,
+#app-mount .callContainer-HtHELf,
+#app-mount .alignCenter-1dQNNs,
+#app-mount .noWrap-3jynv6,
+#app-mount .buttonIcon-Od8mYw,
+#app-mount .da-buttonIcon,
+#app-mount .withText-10pQhr,
+#app-mount .da-withText,
+#app-mount .searchBarComponent-32dTOx,
+#app-mount .da-searchBarComponent,
+#app-mount .quickswitcher-3JagVE,
+#app-mount .da-quickswitcher,
+#app-mount .input-2VB9rf,
+#app-mount .da-input,
+#app-mount .scrollableContainer-2NUZem,
+#app-mount .webkit-HjD9Er,
+#app-mount .da-webkit,
+#app-mount .inner-MADQqc,
+#app-mount .da-inner,
+#app-mount .sansAttachButton-td2irx,
+#app-mount .da-sansAttachButton,
+#app-mount .textArea-12jD-V, 
+#app-mount .da-textArea,
+#app-mount .textAreaSlate-1ZzRVj,
+#app-mount .da-textAreaSlate,
+#app-mount .slateContainer-3Qkn2x,
+#app-mount .da-slateContainer,
+#app-mount .placeholder-37qJjk
+#app-mount .da-placeholder,
+#app-mount .fontSize16Padding-3Wk7zP,
+#app-mount .da-fieldList,
+#app-mount .channelTextArea-1VQBuV,
+#app-mount .scrollableContainer-15eg7h.hasConnectedBar-1vN2JH,
+#app-mount .scrollableContainer-2NUZem,
+#app-mount .webkit-HjD9Er,
+#app-mount .scrollableContainer-15eg7h,
+#app-mount .da-webkit,
+#app-mount .contentRegion-3nDuYy {
+    background-color: transparent;
+}
+#app-mount .children-19S4PO:after {
+    display: none;
+}
+#app-mount .wrapper-3NnKdC {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+#app-mount .scroller-2LSbBU::-webkit-scrollbar {
+ display: none;
+}
+
+#app-mount .scroller-3BxosC::-webkit-scrollbar {
+ display: none;
+}
+#app-mount .infoScroller-1Qu30O::-webkit-scrollbar {
+ display: none;
+}
+#app-mount .da-infoScroller::-webkit-scrollbar {
+ display: none;
+}
+#app-mount .scrollerBase-289Jih::-webkit-scrollbar {
+ display: none;
+}
+#app-mount .scroller-2LSbBU::-webkit-scrollbar {
+ background: transparent;
+}
+
+#app-mount .userProfileModalOverlayBackground-8p3-eU {
+ background: transparent;
+}
+
+#app-mount .userProfileModalOverlayBackground-8p3-eU::-webkit-scrollbar {
+ background: transparent;
+}
+
+.wrapper-1gVUIN,
+.callContainer-HtHELf {
+    background: none;
+}
+
+.videoControls-24w7Xp
+    display:none;
+}
+#app-mount .container-1r6BKw.themed-ANHk51,
+#app-mount .sidebarRegion-VFTUkN,
+#app-mount .sidebar-2K8pFh,
+#app-mount .panels-j1Uci_,
+#app-mount .membersWrap-2h-GB4,
+#app-mount .nowPlayingColumn-2sl4cE {
+    background-color: rgba(0, 0, 0, 0.2);
+}
